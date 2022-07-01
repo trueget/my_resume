@@ -19,7 +19,7 @@ a:hover{
 }
 
 .avatar {
-    width:200px;
+    width:250px;
     border-radius: 50px;
 
 }
@@ -46,6 +46,7 @@ a:hover{
     padding: 15px 20px;
     margin-bottom: 20px;
     border-radius: 20px;
+    width: 100%;
 }
 
 .card h2 {
